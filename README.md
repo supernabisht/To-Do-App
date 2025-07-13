@@ -24,10 +24,6 @@ It helps you stay organized in style with a cherry blossom vibe, persistent task
 
 ---
 
-## 🧸 How It Looks
-
-> _(Optional)_ You can add a screenshot here! Example:
-> ![Screenshot](screenshot.png)
 
 ---
 
